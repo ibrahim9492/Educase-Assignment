@@ -1,8 +1,11 @@
 Educase Assignment
+
 This project is a create a pixel-perfect React JS application based on the provided Adobe XD design, ensuring a clean, well-formatted codebase. The application should feature a centered mobile app interface on the webpage with seamless and efficient navigation between pages. The final project must be hosted on a platform like Vercel, and the code should be shared via a public GitHub repository.
 
 Live Demo
+
 Access the live site here:
+
 https://educase-assignment-ibrahims-projects-04dcd899.vercel.app/
 
 Technologies Used
