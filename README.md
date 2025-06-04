@@ -25,11 +25,15 @@ Client-side routing powered by React Router v6.
 Responsive design with custom styled-components and some utility CSS.
 Avatar photo upload supports direct camera capture (mobile devices) or file selection.
 Installation & Running Locally
+
 Clone the repo:
+
 git clone https://github.com/ibrahim9492/Educase-Assignment.git
+
 Navigate into the project folder:
 
 cd educase-assignment
+
 Install dependencies:
 
 
@@ -71,11 +75,15 @@ Click Deploy site.
 
 After deployment, your app will be live at a Netlify-generated URL, which you can customize.
 
+
 Your current live demo is here:
+
 https://educase-assignment-ibrahims-projects-04dcd899.vercel.app/
 
 Repository
+
 Check the source code on GitHub:
+
 https://github.com/ibrahim9492/Educase-Assignment.git
 
 Additional Notes
